@@ -13,6 +13,10 @@ public class Main {
 
     public static void main(String[] args) {
         boolean isExited= false;
+        System.out.println("Commit orqali o'zgartirdim! ");
+
+
+
 
         while (!isExited){
             System.out.print("""
