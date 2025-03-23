@@ -16,6 +16,9 @@ public class Main {
         System.out.println("Commit orqali o'zgartirdim! ");
 
 
+        System.out.println("ikkinchi marta o'zgartirdim!");
+
+
 
 
         while (!isExited){
