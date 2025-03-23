@@ -6,6 +6,7 @@ import java.util.Scanner;
 import java.util.UUID;
 
 
+
 public class Main {
     public static Scanner scnInt = new Scanner(System.in);
     public static Scanner scnStr = new Scanner(System.in);
